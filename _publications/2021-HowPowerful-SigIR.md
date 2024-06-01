@@ -2,7 +2,7 @@
 title: "How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode."
 collection: publications
 permalink: # /publication/2009-10-01-paper-title-number-1
-excerpt: # 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt:  'This paper is about Interest diffusion.'
 date: 2021
 venue: 'SIGIR'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
