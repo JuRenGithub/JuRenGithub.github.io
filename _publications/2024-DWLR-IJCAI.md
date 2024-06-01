@@ -3,7 +3,7 @@ title: "DWLR: Domain Adaptation under Label Shift for Wearable Sensor"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about domain adaptation under label shift for wearable sensors.'
-date: 2024
+date: 2024-04-17
 venue: 'IJCAI'
 paperurl: 'http://yangy.org/works/domain/IJCAI24_DWLR.pdf'
 citation: # 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'

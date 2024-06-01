@@ -3,7 +3,7 @@ title: "Disentangling Domain and General Representations for Time Series Classif
 collection: publications
 permalink: # /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about Domain adaptation for time series'
-date: 2024
+date: 2024-4-17
 venue: 'IJCAI'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://yangy.org/works/domain/IJCAI24_disentangling.pdf'
