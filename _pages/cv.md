@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer science and Technology , Zhejiang University, 2026 (expected)
+  * Advisor: Prof. [Yang Yang](yangy.org)
+* B.S. in Computer science and Technology, Zhejiang University, 2021
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,16 +30,17 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python (PyTorch, numpy, pandas)
+  * C++
+  * C
+* Natural Languages:
+  * Mandarin Chinese (Native)
+  * English (CET 6)
 
 Publications
 ======
@@ -47,18 +48,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Team Leader of the Noah group (Subgroup of [AINet](yangy.org)), collaborating with HUAWEI (May 2021\-Mar 2024)
+* Responsible for server security and resource allocation as an administrator. (May 2021- )
+* Volunteer in SMP2020 (Sep 2020)
