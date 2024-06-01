@@ -24,7 +24,7 @@ My primary research interests lie in the area of **Machine Learning** and **Data
 
 ## Selected Publications
 
-<b>Juren Li</b>, Yang Yang, Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. DWLR: Domain Adaptation under Label Shift for Wearable Sensor. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
+<b>Juren Li</b>, [Yang Yang](yangy.org), Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. DWLR: Domain Adaptation under Label Shift for Wearable Sensor. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
 [[PDF](http://yangy.org/works/domain/IJCAI24_DWLR.pdf)] 
 [Code](https://github.com/JuRenGithub/DWLR)]
 
