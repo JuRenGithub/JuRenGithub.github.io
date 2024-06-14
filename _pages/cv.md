@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer science and Technology , Zhejiang University, 2026 (expected)
+* Ph.D. in Computer science and Technology , Zhejiang University, 2026 (expected)
   * Advisor: Prof. [Yang Yang](yangy.org)
 * B.S. in Computer science and Technology, Zhejiang University, 2021
 
