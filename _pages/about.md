@@ -24,18 +24,25 @@ My primary research interests lie in the area of **Machine Learning** and **Data
 
 ## Selected Publications
 
-<b>Juren Li</b>, [Yang Yang](yangy.org), Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. DWLR: Domain Adaptation under Label Shift for Wearable Sensor. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
-[[PDF](http://yangy.org/works/domain/IJCAI24_DWLR.pdf)] 
-[Code](https://github.com/JuRenGithub/DWLR)]
+<b>Juren Li</b>, Yang Yang, Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. DWLR: Domain Adaptation under Label Shift for Wearable Sensor. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://yangy.org/works/domain/IJCAI24_DWLR.pdf)
+[![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
+[![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/DWLR)
 
-<b>Juren Li\*</b>, Fanzhe Fu\*, Ran Wei, Yifei Sun, Zeyu Lai, Ning Song, Xin Chen, [Yang Yang](yangy.org)
+<b>Juren Li\*</b>, Fanzhe Fu\*, Ran Wei, Yifei Sun, Zeyu Lai, Ning Song, Xin Chen, Yang Yang
 Chromosomal Structural Abnormality Diagnosis by Homologous Similarity. ([KDD'24](https://kdd2024.kdd.org/)), 2024.
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2407.08204)
+[![VideoBilibili](https://img.shields.io/badge/Video-Bilibili-pink)](https://b23.tv/xvjDDE6)
+[![VideoACM](https://img.shields.io/badge/Video-ACM-FF8C00)](https://files.atypon.com/acm/0a1fb334f4d07744950577ba288726af)
+[![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/HomNet)
 
-Youmin Chen*, Xinyu Yan*, [Yang Yang](yangy.org), Jianfeng Zhang, Jing Zhang, Lujia Pan, and <b>Juren Li</b>. Disentangling Domain and General Representations for Time Series Classification. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024 . [[PDF](http://yangy.org/works/domain/IJCAI24_disentangling.pdf)] [[Code](https://github.com/IJCAI-CADT/cadt)]
+Youmin Chen*, Xinyu Yan*, Yang Yang, Jianfeng Zhang, Jing Zhang, Lujia Pan, and <b>Juren Li</b>. Disentangling Domain and General Representations for Time Series Classification. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024 . 
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](http://yangy.org/works/domain/IJCAI24_disentangling.pdf)
+[![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
+[![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/IJCAI-CADT/cadt)
 
-Xuanwen Huang, [Yang Yang](yangy.org), Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b>, Jun Zhang, and Jingmin Chen. How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'21), 2021. 
-[[PDF](http://yangy.org/works/taocode/SIGIR21_Taocode_Diffusion.pdf)]
-
+Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b>, Jun Zhang, and Jingmin Chen. How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'21), 2021. 
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2112.14446)
 <!--
 A data-driven personal website
 ======
