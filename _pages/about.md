@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year CS Ph.D. student in Computer Science and Technology at Zhejiang University, advised by Prof. [Yang Yang](yangy.org).
+I am currently a third-year CS Ph.D. student in [College of Computer Science and Technology(CCST)](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Yang Yang](yangy.org).
 
 I graduated from Zhejiang University in June 2021 with a Bachelor of Engineering in Computer Science and Technology.
 
@@ -34,6 +34,7 @@ Chromosomal Structural Abnormality Diagnosis by Homologous Similarity. ([KDD'24]
 [![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2407.08204)
 [![VideoBilibili](https://img.shields.io/badge/Video-Bilibili-pink)](https://b23.tv/xvjDDE6)
 [![VideoACM](https://img.shields.io/badge/Video-ACM-FF8C00)](https://files.atypon.com/acm/0a1fb334f4d07744950577ba288726af)
+[![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/tPk0RMm0NUd4WHC2RjFvtQ)
 [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/HomNet)
 
 Youmin Chen*, Xinyu Yan*, Yang Yang, Jianfeng Zhang, Jing Zhang, Lujia Pan, and <b>Juren Li</b>. Disentangling Domain and General Representations for Time Series Classification. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024 . 
