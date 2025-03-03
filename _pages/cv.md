@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[*中文简历*](https://jurengithub.github.io/cv_chinese/)
+
 ## Education
 * ​**Ph.D. in Computer Science and Technology**, Zhejiang University, 2021–Present  
   * Advisor: Prof. [Yang Yang](yangy.org)  
