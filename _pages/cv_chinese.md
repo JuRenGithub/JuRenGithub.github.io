@@ -17,11 +17,9 @@ redirect_from:
 
 ## 技能
 * ​**编程语言**​  
-  * Python (PyTorch, NumPy, Pandas)  
-  * C++  
-  * C  
-* ​**自然语言**​  
-  * 中文普通话 (母语)  
+  * **Python** (PyTorch, NumPy, Pandas)  
+  * 具有C、C++ 编程经历
+* ​**外语**​    
   * 英语 (CET-6)  
 
 ## 学术论文
@@ -30,7 +28,7 @@ redirect_from:
   [![推文](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
   [![代码](https://img.shields.io/badge/代码-Github-black)](https://github.com/JuRenGithub/DWLR)  
 
-* ​**李举仁**, 傅凡哲, 韦然, 孙一飞, 赖泽宇, 宋宁, 陈信, 杨洋. ​**基于同源相似性的染色体结构异常诊断方法**. 第30届ACM SIGKDD知识发现与数据挖掘会议 ([KDD'24](https://kdd2024.kdd.org/)), 2024. 
+* ​**李举仁**, 傅凡哲, 韦然, 孙逸飞, 赖泽宇, 宋宁, 陈信, 杨洋. ​**基于同源相似性的染色体结构异常诊断方法**. 第30届ACM SIGKDD知识发现与数据挖掘会议 ([KDD'24](https://kdd2024.kdd.org/)), 2024. 
   [![论文PDF](https://img.shields.io/badge/论文-PDF-red)](https://dl.acm.org/doi/10.1145/3637528.3671642) 
   [![视频](https://img.shields.io/badge/视频-Bilibili-pink)](https://www.bilibili.com/video/BV1JE421w7xq/?share_source=copy_web&vd_source=be23edf0a59711d53a8b7b6fabdf23fb) 
   [![视频](https://img.shields.io/badge/视频-ACM-FF8C00)](https://files.atypon.com/acm/0a1fb334f4d07744950577ba288726af) 
