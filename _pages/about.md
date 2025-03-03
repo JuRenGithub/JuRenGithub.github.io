@@ -7,38 +7,37 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year CS Ph.D. student in [College of Computer Science and Technology(CCST)](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Yang Yang](yangy.org).
-
-I graduated from Zhejiang University in June 2021 with a Bachelor of Engineering in Computer Science and Technology.
-
-My primary research interests lie in the area of **Machine Learning** and **Data Mining on Time Series**. 
+I am currently a fourth-year CS Ph.D. student in [College of Computer Science and Technology(CCST)](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Yang Yang](yangy.org).
+I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm) Zhejiang University (浙江大学竺可桢学院) in June 2021 with a Bachelor of Engineering in Computer Science and Technology.
+My primary research interests lie in the area of data mining and machine learning for sequence data.
+<!-- Here is My CV ([English version](xxx)/[中文版](xxx))-->
+If you are interested in my research, please feel free to contact me.
 
 <i>**Email:** jrlee {at} zju {dot} edu {dot} cn</i>
 
 
 ## Current Research
+- Developing a universal model for Li-ion battery
+- Modeling time series data in industrial scenarios
 
-- Exploring Foundation Model for Time Serise
-- Developing a universal model based on time series in industrial scenarios
 
-
-## Selected Publications
+## Publications
 
 <b>Juren Li</b>, Yang Yang, Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. DWLR: Domain Adaptation under Label Shift for Wearable Sensor. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
-[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://yangy.org/works/domain/IJCAI24_DWLR.pdf)
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://www.ijcai.org/proceedings/2024/489)
 [![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
 [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/DWLR)
 
-<b>Juren Li\*</b>, Fanzhe Fu\*, Ran Wei, Yifei Sun, Zeyu Lai, Ning Song, Xin Chen, Yang Yang
+<b>Juren Li</b>, Fanzhe Fu, Ran Wei, Yifei Sun, Zeyu Lai, Ning Song, Xin Chen, Yang Yang
 Chromosomal Structural Abnormality Diagnosis by Homologous Similarity. ([KDD'24](https://kdd2024.kdd.org/)), 2024.
-[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/abs/2407.08204)
-[![VideoBilibili](https://img.shields.io/badge/Video-Bilibili-pink)](https://b23.tv/xvjDDE6)
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://dl.acm.org/doi/10.1145/3637528.3671642)
+[![VideoBilibili](https://img.shields.io/badge/Video-Bilibili-pink)](https://www.bilibili.com/video/BV1JE421w7xq/?share_source=copy_web&vd_source=be23edf0a59711d53a8b7b6fabdf23fb)
 [![VideoACM](https://img.shields.io/badge/Video-ACM-FF8C00)](https://files.atypon.com/acm/0a1fb334f4d07744950577ba288726af)
 [![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/tPk0RMm0NUd4WHC2RjFvtQ)
 [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/HomNet)
 
-Youmin Chen*, Xinyu Yan*, Yang Yang, Jianfeng Zhang, Jing Zhang, Lujia Pan, and <b>Juren Li</b>. Disentangling Domain and General Representations for Time Series Classification. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024 . 
-[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](http://yangy.org/works/domain/IJCAI24_disentangling.pdf)
+Youmin Chen*, Xinyu Yan*, Yang Yang, Jianfeng Zhang, Jing Zhang, Lujia Pan, and <b>Juren Li</b>. Disentangling Domain and General Representations for Time Series Classification. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
+[![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://www.ijcai.org/proceedings/2024/424)
 [![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
 [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/IJCAI-CADT/cadt)
 
@@ -46,43 +45,30 @@ Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b
 [![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://arxiv.org/pdf/2112.14446)
 
 
-<!--
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Honors and Awards
+- 2024: Outstanding Graduate Student, ​Outstanding Graduate Student Leader
+- 2021: Outstanding Graduate (Undergraduate)
+- 2020: Second-Class Scholarship (Top 8%), Five-Star Volunteer
+- 2019: Outstanding Student, First-Class Scholarship (Top 3%)
+- 2018: Outstanding Student, First-Class Scholarship (Top 3%)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Educations
+- 2021.09 - now, Ph.D. in Computer Science and Technology, [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, Zhejiang.
+- 2017.09 - 2021.06, Bachelor of Engineering in Computer Science and Technology, Zhejiang University, Hangzhou, Zhejiang.
+- 2014.09 - 2017.06, [ChongQing Yucai Secondary School](https://www.cqyc.com/index.html), ChongQing.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+## Invited Talks
+- 2024.08 **Oral presentation** at IJCAL 2024 to introduce the paper [![DWLR](https://img.shields.io/badge/DWLR-0029dd)](https://www.ijcai.org/proceedings/2024/489).
+- 2024.08 **Oral presentation** at KDD 2024 to introduce the paper [![HomNet](https://img.shields.io/badge/HomNet-0029dd)](https://files.atypon.com/acm/0a1fb334f4d07744950577ba288726af).
+- 2024.08 **Invited speaker** of [AITIME](https://www.aitime.cn/) to introduce the work of [![HomNet](https://img.shields.io/badge/HomNet-0029dd)](https://www.bilibili.com/video/BV1JE421w7xq/?share_source=copy_web&vd_source=be23edf0a59711d53a8b7b6fabdf23fb).
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
+## Academic Services
+- Peer Review
+  - **KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)**: 2022, 2025 Reviewer
+  - **TBD (Transactions on Big Data)**: 2022, 2023 Reviewer
+- Leadership & Management
+  - 2021–Present: **Team Leader** of the Noah Group (Subgroup of [AINet](yangy.org)) with 7 members.
+  - 2021–Present: Managed server security and resource allocation as an administrator.
+- Volunteer Experience
+  - Sep. 2020: Volunteer in [SMP](https://smp2020.aconf.cn/index.html).
