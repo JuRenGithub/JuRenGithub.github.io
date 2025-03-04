@@ -17,14 +17,6 @@ redirect_from:
 * ​**Bachelor of Engineering in Computer Science and Technology**, Zhejiang University, 2017–2021  
 * ​**Chongqing Yucai Secondary School**, 2014–2017  
 
-## Skills
-* ​**Programming**​  
-  * Python (PyTorch, NumPy, Pandas)  
-  * C++  
-  * C  
-* ​**Natural Languages**​  
-  * Mandarin Chinese (Native)  
-  * English (CET-6)  
 
 ## Publications
 * ​**Juren Li**, Yang Yang, Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. ​**DWLR: Domain Adaptation under Label Shift for Wearable Sensor**. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
@@ -66,3 +58,13 @@ redirect_from:
 * ​**2024.08**: Oral presentation at [IJCAI 2024](https://ijcai24.org/) to introduce the paper ​**DWLR**.  
 * ​**2024.08**: Oral presentation at [KDD 2024](https://kdd2024.kdd.org/) to introduce the paper ​**HomNet**.  
 * ​**2024.08**: Invited speaker at [AITIME](https://www.aitime.cn/) to introduce the work of ​**HomNet**.  
+
+
+## Skills
+* ​**Programming**​  
+  * Python (PyTorch, NumPy, Pandas)  
+  * C++  
+  * C  
+* ​**Natural Languages**​  
+  * Mandarin Chinese (Native)  
+  * English (CET-6)  
