@@ -16,7 +16,13 @@ redirect_from:
 * ​**重庆育才中学**, 2014–2017  
 
 
+## 研究方向
+数据挖掘，时间序列分析，机器学习
+
 ## 学术论文
+* <b>李举仁</b>, 杨洋, 苏晗琛, 刘佳誉, 陈友民, 张建锋, 潘璐伽. 锂电池分析的基础模型. ([KDD'25](https://kdd2025.kdd.org/)), 2025. [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/LiPM) 
+[![Code](https://img.shields.io/badge/Code-Dataset-black)](https://github.com/JuRenGithub/Battery-Data)
+
 * ​**李举仁**, 杨洋, 陈友民, 张建锋, 赖泽宇, 潘璐佳. ​**DWLR: 面向可穿戴设备的标签偏移域适应方法**. 第33届国际人工智能联合会议 ([IJCAI'24](https://ijcai24.org/)), 2024. 
   [![论文PDF](https://img.shields.io/badge/论文-PDF-red)](https://www.ijcai.org/proceedings/2024/489) 
   [![推文](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
@@ -38,7 +44,7 @@ redirect_from:
   [![论文PDF](https://img.shields.io/badge/论文-PDF-red)](https://arxiv.org/pdf/2112.14446)  
 
 ## 荣誉与奖项
-* ​**2024**: 优秀研究生 
+* ​**2024**: 优秀研究生, 五好研究生
 * ​**2021**: 优秀毕业生 (本科)  
 * ​**2020**: 二等奖学金 (前8%) 
 * ​**2019**: 优秀学生, 一等奖学金 (前3%)  
