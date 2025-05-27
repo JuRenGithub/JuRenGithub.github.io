@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year CS Ph.D. student in [College of Computer Science and Technology(CCST)](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Yang Yang](yangy.org).
+I am currently a fourth-year CS Ph.D. student in [College of Computer Science and Technology(CCST)](http://www.cs.zju.edu.cn/) at [Zhejiang University](http://www.zju.edu.cn/), advised by Prof. [Yang Yang](http://yangy.org).
 I graduated from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm) Zhejiang University (浙江大学竺可桢学院) in June 2021 with a Bachelor of Engineering in Computer Science and Technology.
 My primary research interests lie in the area of data mining and machine learning for sequence data.
 <!-- Here is My CV ([English version](xxx)/[中文版](xxx))-->
