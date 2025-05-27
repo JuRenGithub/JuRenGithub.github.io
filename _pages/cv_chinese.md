@@ -20,7 +20,7 @@ redirect_from:
 数据挖掘，时间序列分析，机器学习
 
 ## 学术论文
-* <b>李举仁</b>, 杨洋, 苏晗琛, 刘佳誉, 陈友民, 张建锋, 潘璐伽. **LiPM: 锂电池分析的基础模型**. ([KDD'25](https://kdd2025.kdd.org/)), 2025. [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/LiPM) 
+* <b>李举仁</b>, 杨洋, 苏晗琛, 刘佳誉, 陈友民, 张建锋, 潘璐伽. **LiPM: 锂电池分析的基础模型**.  第31届ACM SIGKDD知识发现与数据挖掘会议([KDD'25](https://kdd2025.kdd.org/)), 2025. [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/LiPM) 
 [![Code](https://img.shields.io/badge/Code-Dataset-black)](https://github.com/JuRenGithub/Battery-Data)
 
 * ​**李举仁**, 杨洋, 陈友民, 张建锋, 赖泽宇, 潘璐佳. ​**DWLR: 面向可穿戴设备的标签偏移域适应方法**. 第33届国际人工智能联合会议 ([IJCAI'24](https://ijcai24.org/)), 2024. 
