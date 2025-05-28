@@ -17,8 +17,14 @@ redirect_from:
 * ​**Bachelor of Engineering in Computer Science and Technology**, Zhejiang University, 2017–2021  
 * ​**Chongqing Yucai Secondary School**, 2014–2017  
 
+## Research
+
+Data Mining, Time Series Analysis, Machine Learning
 
 ## Publications
+* <b>Juren Li</b>, Yang Yang, Hanchen Su, Jiayu Liu, Youmin Chen, Jianfeng Zhang, Lujia Pan. LiPM: Foundation Model for Lithium-Ion Battery Analysis. ([KDD'25](https://kdd2025.kdd.org/)), 2025. [![Code](https://img.shields.io/badge/Code-Github-black)](https://github.com/JuRenGithub/LiPM) 
+[![Code](https://img.shields.io/badge/Code-Dataset-black)](https://github.com/JuRenGithub/Battery-Data)
+
 * ​**Juren Li**, Yang Yang, Youmin Chen, Jianfeng Zhang, Zeyu Lai, and Lujia Pan. ​**DWLR: Domain Adaptation under Label Shift for Wearable Sensor**. In Proceedings of the 33rd International Joint Conference on Artificial Intelligence ([IJCAI'24](https://ijcai24.org/)), 2024. 
 [![PaperPDF](https://img.shields.io/badge/Paper-PDF-red)](https://www.ijcai.org/proceedings/2024/489)
 [![Blog](https://img.shields.io/badge/推文-中文-green)](https://mp.weixin.qq.com/s/8OtVcMLxWYC4eGMOb8-T3w)
