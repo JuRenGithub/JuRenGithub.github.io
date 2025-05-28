@@ -49,6 +49,9 @@ redirect_from:
 ## Service and Leadership
 * ​**Team Leader**, Noah Group (Subgroup of [AINet](yangy.org)), 2021–Present  
   * Led a 7-member research team collaborating with Huawei.  
+* Peer Reviewer
+  * KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining): 2022, 2025 Reviewer
+  * TBD (IEEE Transactions on Big Data): 2022, 2023 Reviewer
 * ​**System Administrator**, 2021–Present  
   * Managed server security and resource allocation for high-performance computing clusters.  
 * ​**Volunteer**, [SMP 2020](https://smp2020.aconf.cn/index.html), September 2020  
