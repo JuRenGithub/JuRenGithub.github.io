@@ -69,7 +69,7 @@ Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b
 ## Academic Services
 - Peer Review
   - **KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)**: 2022, 2025 Reviewer
-  - **TBD (Transactions on Big Data)**: 2022, 2023 Reviewer
+  - **TBD (IEEE Transactions on Big Data)**: 2022, 2023 Reviewer
 - Leadership & Management
   - 2021–Present: **Team Leader** of the Noah Group (Subgroup of [AINet](yangy.org)) with 7 members.
   - 2021–Present: Managed server security and resource allocation as an administrator.

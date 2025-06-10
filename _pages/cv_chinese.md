@@ -60,6 +60,9 @@ redirect_from:
 ## 学术服务
 * ​**科研小组组长**, Noah 小组 (隶属于[AINet](yangy.org)), 2021–至今  
   * 领导7人研究小组与华为合作。  
+* **审稿人**
+  * 国际知识发现和数据挖掘会议(KDD): 2022, 2025。
+  * IEEE Transactions on Big Data (TBD): 2022, 2023。
 * ​**系统管理员**, 2021–至今  
   * 负责服务器安全与资源分配。  
 * ​**志愿者**, [SMP 2020](https://smp2020.aconf.cn/index.html), 2020年9月  
