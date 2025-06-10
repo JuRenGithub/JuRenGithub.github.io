@@ -13,7 +13,7 @@ redirect_from:
 
 ## Education
 * ​**Ph.D. in Computer Science and Technology**, Zhejiang University, 2021–Present  
-  * Advisor: Prof. [Yang Yang](yangy.org)  
+  * Advisor: Prof. [Yang Yang](http://yangy.org)  
 * ​**Bachelor of Engineering in Computer Science and Technology**, Zhejiang University, 2017–2021  
 * ​**Chongqing Yucai Secondary School**, 2014–2017  
 

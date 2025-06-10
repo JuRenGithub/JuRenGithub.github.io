@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+<div align="center">
+<font size="5"> 李举仁</font>
+</div>
+
+- 邮箱: jrlee{at}zju{dot}edu{dot}cn
+- 地址: 杭州市，浙江大学玉泉校区 
+
 ## 教育背景
 * ​**计算机科学与技术博士**, 浙江大学, 2021–至今  
   * 导师: [杨洋教授](http://yangy.org)  
