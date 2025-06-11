@@ -49,12 +49,12 @@ Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b
 
 
 ## Honors and Awards
-- 2025: Outstanding Reviewers (KDD 2025)
-- 2024: Outstanding Graduate Student, ​Outstanding Graduate Student Leader
+- 2025: Outstanding Reviewers, KDD 2025 (Top 10% of reviewers)
+- 2024: Outstanding Graduate Student; ​Outstanding Graduate Student Leader
 - 2021: Outstanding Graduate (Undergraduate)
 - 2020: Second-Class Scholarship (Top 8%), Five-Star Volunteer
-- 2019: Outstanding Student, First-Class Scholarship (Top 3%)
-- 2018: Outstanding Student, First-Class Scholarship (Top 3%)
+- 2019: Outstanding Student; First-Class Scholarship (Top 3%)
+- 2018: Outstanding Student; First-Class Scholarship (Top 3%)
 
 ## Educations
 - 2021.09 - now, Ph.D. in Computer Science and Technology, [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, Zhejiang.
