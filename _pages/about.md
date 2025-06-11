@@ -49,6 +49,7 @@ Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b
 
 
 ## Honors and Awards
+- 2025: Outstanding Reviewers (KDD 2025)
 - 2024: Outstanding Graduate Student, ​Outstanding Graduate Student Leader
 - 2021: Outstanding Graduate (Undergraduate)
 - 2020: Second-Class Scholarship (Top 8%), Five-Star Volunteer
@@ -69,6 +70,7 @@ Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, <b>Juren Li</b
 ## Academic Services
 - Peer Review
   - **KDD (ACM SIGKDD Conference on Knowledge Discovery and Data Mining)**: 2022, 2025 Reviewer
+    - **Outstanding Reviewer** in KDD 2025.
   - **TBD (IEEE Transactions on Big Data)**: 2022, 2023 Reviewer
 - Leadership & Management
   - 2021–Present: **Team Leader** of the Noah Group (Subgroup of [AINet](yangy.org)) with 7 members.
